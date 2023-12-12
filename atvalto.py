@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-# comment
+
 egesho = 35.11
 valtoszam = 3.2419
 
